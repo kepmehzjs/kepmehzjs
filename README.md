@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://ibb.co/GRQhnf0" align="center" alt="Me" />
+ <img width="100px" src="file:///C:/Users/queck/Pictures/Kedi%20Foto%C4%9Fraf%C4%B1.jpg" align="center" alt="Me" />
  <h2 align="center">KepmezhJS</h2>
  <p align="center">Someone is her own name.</p>
 </p>
