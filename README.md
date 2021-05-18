@@ -9,7 +9,7 @@ Hello! I am kepmezh, I live in Turkey, I am someone who codes discord bots and d
 
 # Links, Email
 
-- kepmehz49@gmail.com
+- Email: kepmehz49@gmail.com
 
 - Twitter: https://twitter.com/kepmehz33
 - Reddit: https://www.reddit.com/user/kepmezh0
