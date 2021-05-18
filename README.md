@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://ibb.co/GRQhnf0" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://ibb.co/GRQhnf0" align="center" alt="Me" />
  <h2 align="center">KepmezhJS</h2>
  <p align="center">Someone is her own name.</p>
 </p>
