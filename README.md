@@ -11,10 +11,10 @@ Hello! I am kepmezh, I live in Turkey, I am someone who codes discord bots and d
 
 - Email: kepmehz49@gmail.com
 
-- Twitter: https://twitter.com/kepmehz33
-- Reddit: https://www.reddit.com/user/kepmezh0
-- Youtube: https://www.youtube.com/channel/UCiTk6PsWwmy79v2uM6NRAQw
-- Twitch: https://twitch.tv/kepmezh
+- Twitter: https://is.gd/2ghJgu
+- Reddit: https://is.gd/8FnKH3
+- Youtube: https://is.gd/rphV4v
+- Twitch: https://is.gd/Ydq7N8
 
 # My GitHub Statics
 
