@@ -15,7 +15,7 @@
 <div class="myaccounts" id="myaccounts">
    <div class="accounts" id="accounts">
       <h1 align="center">
-          My Accounts / GitHub Stats
+          My Accounts 
       </h1>
       <p align="center">
          <a href="https://discord.com/users/801152740310253629" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
