@@ -27,7 +27,14 @@
    </div>
 </div>
 
-<div style"text-align:center" class="details" id="details">
-      <h1 align="center">My GitHub Statics</h1>
-      <img src="https://github-readme-stats.vercel.app/api?username=kepmehzjs&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=kepmehzjs&style=flat-square"></img>
+</p>
+
+<h1 align="center">My GitHub Statics</h1>
+
+<div class="statics" id="statics">
+   <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=kepmehzjs&theme=dark&show_icons=true"></img>
+   </p>
 </div>
