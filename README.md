@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=https%3A%2F%2Ftwitter.com%2Fkepmehz33;https%3A%2F%2Ftwitch.tv%2Fkepmehz;https%3A%2F%2Ftitanzilla.ga+(+Coming+Soon+))](https://git.io/typing-svg"></img>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=https%3A%2F%2Ftwitter.com%2Fkepmehz33;https%3A%2F%2Ftwitch.tv%2Fkepmehz;https%3A%2F%2Ftitanzilla.ga+(+Now+Active+))](https://git.io/typing-svg"></img>
 </p>
 
 <h1 align="center">My GitHub Statics</h1>
